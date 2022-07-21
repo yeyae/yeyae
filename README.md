@@ -26,6 +26,8 @@
   
 現在、[株式会社 グローバルイン](https://www.globalin.kr/)でJAVA&Big Data開発者の教育を受けました。
 
+いつでも熱心に！
+
 ## 🛠 Stack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeyae&layout=compact)](https://github.com/yeyae/yeyae)
 
