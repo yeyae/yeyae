@@ -8,6 +8,9 @@
 [![Gmail Badge](https://img.shields.io/badge/jinddg16@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinddg16@gmail.com)](mailto:jinddg16@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/whyjinny@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:whyjinny@naver.com)](mailto:whyjinny@naver.com)
 
+## ✉My Notion
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Adobe Dreamweaver&logoColor=Notion"/>
+
 #### Kr
 
 안녕하세요👋
