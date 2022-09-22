@@ -9,7 +9,7 @@
 [![Naver Badge](https://img.shields.io/badge/whyjinny@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:whyjinny@naver.com)](mailto:whyjinny@naver.com)
 
 ## ✉My Notion
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Adobe Dreamweaver&logoColor=Notion"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion &logoColor=white"/>
 
 #### Kr
 
